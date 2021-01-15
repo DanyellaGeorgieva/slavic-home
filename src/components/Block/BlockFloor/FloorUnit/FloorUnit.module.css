@@ -1,0 +1,30 @@
+.Normal,
+.Painted,
+.Staircase,
+.Balcony,
+.WalledUp {
+  height: 100%;
+  width: 20%;
+}
+
+
+.Normal {
+  background: saddlebrown;
+}
+
+.Painted {
+  background: sandybrown;
+}
+
+.Staircase {
+  width: 10%;
+  background: slateblue;
+}
+
+.Balcony {
+  background: salmon;
+}
+
+.WalledUp {
+  background: sienna;
+}

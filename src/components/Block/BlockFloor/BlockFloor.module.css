@@ -1,0 +1,22 @@
+.GroundFloor {
+  height: 40px;
+  width: 100%;
+  background: gray;
+  margin-bottom: 1px;
+}
+
+.SubFloor {
+  height: 40px;
+  width: 100%;
+  background: greenyellow;
+  margin-bottom: 1px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.LastFloor {
+  height: 80px;
+  width: 100%;
+  background: indianred;
+  margin-bottom: 1px;
+}
